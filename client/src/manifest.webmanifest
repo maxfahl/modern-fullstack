@@ -1,0 +1,9 @@
+{
+  "name": "doit",
+  "short_name": "doit",
+  "description": "",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/",
+  "content_security_policy": "script-src 'self' 'sha256-nC1EIFTfIzbc0hgADWC4Eos+jMRdIaPymHrOT/14N2s='; object-src 'self'"
+}

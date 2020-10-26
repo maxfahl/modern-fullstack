@@ -1,0 +1,18 @@
+{
+  "name": "doit",
+  "description": "A well rounded full stack boilerplate.",
+  "version": "1.0.0",
+  "author": "maxfahl <max@pixilab.se>",
+  "license": "MIT",
+  "homepage": "https://github.com/maxfahl/modern-fullstack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxfahl/modern-fullstack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxfahl/modern-fullstack/issues"
+  },
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
